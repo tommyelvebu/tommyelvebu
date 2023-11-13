@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tommyelvebu
-- 👀 I’m interested in protein and baki 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me github!!!
+- 👋 Good evening, I’m @tommyelvebu
+- 👀 My passion is Data analysis and graph plotting
+- 🌱 I’m always learning new stuff - my friends call me ChatGPT 2.0
+- 💞️ I’m looking to collaborate on any project
+- 📫 For business inquiries, contact my manager at tommy.elvebu@hotmail.com
 
 <!---
 tommyelvebu/tommyelvebu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
