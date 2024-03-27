@@ -1,10 +1,26 @@
-- 👋 Good evening, I’m @tommyelvebu
-- 👀 My passion is Data analysis and graph plotting
-- 🌱 I’m always learning new stuff - my friends call me ChatGPTommy
-- 💞️ I’m looking to collaborate on any project
-- 📫 For business inquiries, contact my manager at tommy.elvebu@hotmail.com
+👋 Hi, I'm Tommy Elvebu
 
-<!---
-tommyelvebu/tommyelvebu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Who am I?
+
+I am a Data Science for Business student with strong analytical skills, always eager to learn.
+
+🛠️ My Technical Skills:
+
+🐍 Coding Languages:
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
+Python
+R
+
+🗃️ Databases:
+SQLite
+
+🕸️ Web Development:
+HTML5
+CSS
+
+🛠️ Development Tools:
+VSCode
+Github
+
+📫 How to reach me:
+Email: tommy.elvebu@hotmail.com LinkedIn: TommyElvebu
