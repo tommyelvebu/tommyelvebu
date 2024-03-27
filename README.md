@@ -1,26 +1,30 @@
-👋 Hi, I'm Tommy Elvebu
+<h1 style="text-align:center">👋 Hi, I'm Tommy Elvebu</h1>
 
-Who am I?
+<h2>👨‍💻 Who am I?<h2/>
 
-I am a Data Science for Business student with strong analytical skills, always eager to learn.
+I am a Data Science for Business student with strong analytical skills, always learning new technologies.
 
-🛠️ My Technical Skills:
+<h2>🛠️ My Technical Skills<h2/>
 
-🐍 Coding Languages:
+<h3>🐍 Coding Languages:</h3>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
-Python
-R
+<img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=R">
 
-🗃️ Databases:
-SQLite
 
-🕸️ Web Development:
-HTML5
-CSS
+<h3>🗃️ Databases:</h3>
+<img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite">
 
-🛠️ Development Tools:
-VSCode
-Github
 
-📫 How to reach me:
+<h3>🕸️ Web Development:</h3>
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5">
+<img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&logoColor=blue">
+
+
+<h3>🛠️ Development Tools:</h3>
+<img src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=blueviolet">
+<img src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github">
+
+
+<h2>🛠️ 📫 How to reach me:<h2/>
+  
 Email: tommy.elvebu@hotmail.com LinkedIn: TommyElvebu
