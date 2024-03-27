@@ -1,11 +1,10 @@
-<h1 style="text-align:center">👋 Hi, I'm Tommy Elvebu</h1>
-
+<p align="center">
+  <h1>👋 Hi, I'm Tommy Elvebu</h1>
+</p>
 <h2>👨‍💻 Who am I?<h2/>
+<p>I am a Data Science for Business student with strong analytical skills, always learning new technologies.</p>
 
-I am a Data Science for Business student with strong analytical skills, always learning new technologies.
-
-<h2>🛠️ My Technical Skills<h2/>
-
+<h2>🛠️ Technical Skills<h2/>
 <h3>🐍 Coding Languages:</h3>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
 <img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=R">
@@ -27,4 +26,4 @@ I am a Data Science for Business student with strong analytical skills, always l
 
 <h2>🛠️ 📫 How to reach me:<h2/>
   
-Email: tommy.elvebu@hotmail.com LinkedIn: TommyElvebu
+<p>Email: tommy.elvebu@hotmail.com LinkedIn: TommyElvebu <p/>
