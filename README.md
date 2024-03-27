@@ -1,6 +1,4 @@
-|  |
-|:-:|
-| 👋 Hi, I'm Tommy Elvebu< |
+<h1 align="center">👋 Hi, I'm Tommy Elvebu</h1>
 
 <h2>👨‍💻 Who am I?<h2/>
 
