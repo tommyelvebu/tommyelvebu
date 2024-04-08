@@ -18,7 +18,6 @@
 
 <h3>🕸️ Web Development:</h3>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5">
-<img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3&logoColor=blue">
 
 
 <h3>🛠️ Development Tools:</h3>
