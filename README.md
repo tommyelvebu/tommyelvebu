@@ -26,5 +26,5 @@
 
 
 <h2>📫 How to reach me:</h2>
-<p>Email: tommy.elvebu@hotmail.com</p>
+<p>Email: tommy.elvebu@gmail.com</p>
 <p>LinkedIn: TommyElvebu</p>
